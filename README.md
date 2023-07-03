@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#In this project i used newsapi so it allows us only limited hits. My hits limit is about to end. So you guyz can create your own api key from newsapi website and use it :)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
